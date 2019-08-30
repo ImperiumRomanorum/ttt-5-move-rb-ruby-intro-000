@@ -14,7 +14,3 @@ end
 
 user_input = "5"
 
-def move(board, index, player = X)
-  
-  
-end  
