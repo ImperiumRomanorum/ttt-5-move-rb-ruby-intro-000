@@ -9,5 +9,5 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(arg)
-  puts #{arg.to_i}
+  print arg.to_i
 end  
