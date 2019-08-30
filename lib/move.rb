@@ -11,3 +11,7 @@ end
 def input_to_index("arg")
   puts "arg".to_i
 end  
+
+def move
+  
+end  
