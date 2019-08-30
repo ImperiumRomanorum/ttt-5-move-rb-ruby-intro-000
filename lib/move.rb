@@ -8,6 +8,6 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(arg)
-  print arg.to_i
+def input_to_index("arg")
+  print "arg".to_i
 end  
