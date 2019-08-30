@@ -8,8 +8,8 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(arg)
-  puts arg.to_i - 1
+def input_to_index("5")
+  puts "5".to_i - 1
 end  
 
 
