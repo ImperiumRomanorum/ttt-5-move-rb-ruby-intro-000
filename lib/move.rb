@@ -12,7 +12,6 @@ def input_to_index(arg)
   puts arg.to_i - 1
 end  
 
-input_to_index(five)
 
 def move(board, index, player = X)
   
